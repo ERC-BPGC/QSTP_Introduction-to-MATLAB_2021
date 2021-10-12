@@ -1,6 +1,8 @@
 # QSTP Introduction To MATLAB
 
-This repository contains all reading materials from the mechatronics summer course taught by [Ashutosh Gupta](https://github.com/Ashutosh781), [Pranav Goyal](https://github.com/pranavgo) and [Sanskar Jain](https://github.com/sanskarjain7), as part of the QSTP initiative. Millions of engineers and scientists worldwide use MATLAB for a range of applications, in industry and academia, including deep learning and machine learning, signal processing and communications, image and video processing, control systems, test and measurement, computational finance, and computational biology. The goal of this project is to introduce beginners to MATLAB and its applications in robotics.
+This repository contains all reading materials from the MATLAB summer course taught by [Ashutosh Gupta](https://github.com/Ashutosh781), [Pranav Goyal](https://github.com/pranavgo) and [Sanskar Jain](https://github.com/sanskarjain7), as part of the QSTP initiative.
+
+Millions of engineers and scientists worldwide use MATLAB for a range of applications, in industry and academia, including deep learning and machine learning, signal processing and communications, image and video processing, control systems, test and measurement, computational finance, and computational biology. The goal of this project is to introduce beginners to MATLAB and its applications in robotics.
 
 ## Course Structure
 
@@ -26,7 +28,7 @@ Prefer PDFs over Markdown? View the course handout [here](Course_Handout.pdf).
 
 ### What is QSTP?
 
-Quark Summer Technical Projects (QSTP) is a platform where experienced BITS students (currently in their 2/3/4th year); part of the clubs or independently; mentor Project-centric Courses for other students over the summer. This course will start from 6th July 2021.
+Quark Summer Technical Projects (QSTP) is a platform where experienced BITS students (currently in their 2/3/4th year); part of the clubs or independently; mentor Project-centric Courses for other students over the summer. This course functioned from 6th July to 20th August 2021.
 
 Quark Summer Technical Projects (QSTP) in association with GDG (Google Developers Group) & WTM (Women Techmakers) Goa is open for participation from all students irrespective of their branch and year of study.
 
